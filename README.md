@@ -1,4 +1,4 @@
-# Pr-diction-d-tresse-financi-re
+## Prédiction de la détresse financière des entreprises
 
 Projet de modélisation de détresse financière
 Dans ce kernel, nous allons nous intéressez au problème de stress financier auquel sont exposé les entreprise
