@@ -1,6 +1,7 @@
 ## Prédiction de la détresse financière des entreprises
 
 Projet de modélisation de détresse financière
+
 Dans ce kernel, nous allons nous intéressez au problème de stress financier auquel sont exposé les entreprise
 
 Pour ce faire, nous allons analyser un ensemble de données issues d'une ancienne compétition kaggle. L'ensemble des données traite de la prévision de détresse financière pour un échantillon d’entreprises. Mais avons, commencer par définir la notion de détressae financière afin de mieux cerner l'enjeux métier.
