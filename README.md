@@ -14,3 +14,4 @@ Le risque systémique financier est une question importante dans les systèmes �
 Ainsi dans ce kernel, Dans cet article, nous nous basons sur les recherches et méthodologies existantes sur l’évaluation et la mesure du risque systémique financier combinées aux technologies d’apprentissage automatique, y compris l’analyse du Big Data, l’analyse du réseau et l’analyse des sentiments
 
 Maintenant, intéressons nous aux données Kaggle.
+Voir le code python
